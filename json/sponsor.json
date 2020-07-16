@@ -1,0 +1,128 @@
+[
+  {
+    "id": "sponsor-0",
+    "level": "bronze",
+    "name": {
+      "en": "Rayark",
+      "zh-TW": "雷亞遊戲"
+    },
+    "intro": {
+      "en": "Rayark is a gaming company located in Taipei, working hard at developing original IPs for players to enjoy.\nStarting out on mobile platforms, we now have games across multiple platforms and genres. From rhythm games, casual games, sci-fi action to strategy RPGs…etc. We are always experimenting with more ways to bring a lively experience to our player base.\nWe at Rayark strive to deepen our games and what they represent, trying to expand the limits of what a game can do. In doing so, we strive to give each of our players an unforgettable experience.\nSee more: https://www.rayark.com/en/",
+      "zh-TW": "雷亞遊戲是一家位於台北，致力於開發原創IP的遊戲公司。\n從移動平台為遊戲開發的起點，迄今已拓展至多遊戲平台，作品類型涵蓋音樂節奏、休閒趣味、科幻動作以及策略RPG等類型，同時也致力以多元形式傳遞作品於不同層次的感動。\n雷亞遊戲不斷深入遊戲內涵，嘗試拓展遊戲帶來更多可能性，將感動長久留存在玩家心中。瞭解更多：https://www.rayark.com/zh/"
+    },
+    "image": "Rayark.png",
+    "link": "https://bit.ly/COSCUP2020-rayark"
+  },
+  {
+    "id": "sponsor-1",
+    "level": "co-organizer",
+    "name": {
+      "en": "Open Culture Foundation",
+      "zh-TW": "開放文化基金會"
+    },
+    "intro": {
+      "en": "The Open Culture Foundation (OCF), is a nonpartisan, nonprofit organization, founded in 2014 by several members of Taiwan’s open source community. Our main goal is to support local communities advocate the use of open technologies in broader sectors, including open source software, open hardware, and open data. We help government, enterprises, and NGOs better understand the benefits of adopting open source,and promote the importance of open data to the public sphere. We believe that a culture of open collaboration is the foundation for an innovative society, and the engine of a participatory democracy.",
+      "zh-TW": "財團法人開放文化基金會（Open Culture Foundation，簡稱 OCF）成立的主要目的，是希望能夠藉由法人組織的力量，協助台灣資訊軟體界的開放源碼社群，包含開放原始碼軟體、開放資料、開放政府 (公民科技)。三個主要領域的發展和應用。\n除此之外，也期許能將開源自由的精神，更廣泛地應用在各個領域。因此，除了協助開源社群之外，基金會也協助民間企業、政府單位、非政府組織及學術單位，讓他們更能了解開源軟硬體的優勢、開放資料的重要性，進而在產、官、學三方推廣開源與開放協作的文化。"
+    },
+    "image": "OCF.png",
+    "link": "https://bit.ly/COSCUP2020-OCF"
+  },
+  {
+    "id": "sponsor-2",
+    "level": "bronze",
+    "name": {
+      "en": "Skymirror",
+      "zh-TW": "天鏡科技"
+    },
+    "intro": {
+      "en": "Established in 2011, Sky Mirror Technology Co., Ltd. specialized in AI、big data、mathematical statistics、UI/UX. Backed by excellent technology and professional service, several high-quality products and services have entered the market. In order to satisfy the diversity needs of our customers, we encourage our employees to learn and adapt creativity and vatality in our products. Skymirror has three subsidiaries listed as follows. BBAR – online food ordering & discount platform The main service of BBar Co., Ltd. is online food ordering with special discount. The BBar platform provides instant order for groups. Even if you are late for dinner or sitting at different tables, you can enjoy the fun of ordering at zero distance. Non-contact ordering gives each other an extra space of social distance. Want to save money for meal? Just use BBAR ! Stranity – AI trading platform Stranity team has accumulated more than 10 years of experience in program trading system development in Taiwan, including high-performance trading system, artificial intelligence, big data analysis and other technologies. Adhere to the original intention of creation, we make the program trading easier and more popular. Through the cooperation of our team, the trading process becomes simple and comfortable, making the analysis more accurate and the trading more professional. Zscorp Co., Ltd - Information technology integration and development Zscorp Co., Ltd. focuses on the research and development of information technology, including business management, knowledge management, cloud computing, smart applications and other information technology applications. The technology block uses a highly flexible basic platform and modular development methods to respond to various integrated applications, effectively reducing repeated development costs and improving res improving resource applicability. In addition, we also pursue the application of cutting-edge novel technologies to improve people's quality of life and experience. Skymirror Technology Group specializes in cross-platform system development and cross-domain integration, with huge amounts of data and artificial intelligence technology, and continues to bring original products to the market. In the future, we will continue to improve on the application of smart technology, reflecting the shared and cocreated corporate culture and brand value.",
+      "zh-TW": "領先技術 創新體驗   天鏡科技股份有限公司成立於 2011 年,聚焦於人工智慧、大數據分析、數學統計、UI / UX 等領域,以卓越的技術與專業服務為後盾,陸續推出多項高品質的產品與服務 公司鼓勵成員樂於學習挑戰各種領先技術，為產品注入創意與活力，滿足使用者多元需求，集團旗下擁有三間子公司：1. 菜BBAR - 線上點餐，美食折扣平台菜嗶吧股份有限公司主要服務為 菜BBAR 線上點餐，結帳金額立即有折扣優惠！另外平台提供團體即時點餐，即使聚餐遲到、分坐不同桌，都能享受零距離同步點餐樂趣，非接觸式點餐讓彼此多一份安全的距離感。吃飯想省錢？就到 菜BBAR！2. 策略無限 - AI 程式交易平台策略無限團隊在台灣累積超過 10 年的程式交易系統開發經驗，完美結合高效能交易系統、人工智慧、大數據分析等技術。 秉持創立的初衷，讓程式交易更簡單更普及，將原本複雜的交易系統建置與維運，透過本團隊的合作，過程變得簡單愜意，讓分析更精準，交易更專業。3. 振碩資訊 - 資訊整合技術研發振碩資訊科技公司專注於資訊整合技術研發，領域包含了經營管理、知識管理、雲端運算、智慧應用等資訊技術應用；其中於技術區塊運用了高彈性的基礎平台與模組化開發方式，以因應各項整合型應用，有效降低重覆開發成本、提升資源應用性；此外，更追求尖端新穎技術的應用，提升人民生活品質與體驗。天鏡科技集團專精於跨平台系統開發與跨領域整合，搭配巨量資料以及人工智慧技術，持續將原創產品推入市場，未來亦持續於智慧科技應用上精進，體現共享、共創的公司文化與品牌價值。"
+    },
+    "image": "SkyMirror.png",
+    "link": "https://bit.ly/COSCUP2020-SkyMirror"
+  },
+  {
+    "id": "sponsor-3",
+    "level": "gold",
+    "name": {
+      "en": "Appier",
+      "zh-TW": "沛星互動科技股份有限公司"
+    },
+    "intro": {
+      "en": "Appier helps businesses solve their most challenging problems with artificial intelligence. It is a partner to some of the world’s leading brands, providing a suite of enterprise-grade products to support data-driven decisions and accelerate business growth. Established in 2012 by a passionate team of computer scientists and engineers, Appier now has more than 400 people across 15 offices and is recognized as a Top 50 AI company by Fortune Magazine. Appier has raised US$162 million in funding from investors including Sequoia, Softbank, and Line. Learn more at www.appier.com",
+      "zh-TW": "Appier 透過人工智慧協助企業解決棘手的商業挑戰。身為全球領導品牌的合作夥伴，Appier 提供一套全方位的企業級產品，支持數據驅動的決策並加速業務增長。Appier 於 2012 年由一群充滿熱情的電腦科學家和資訊工程師共同創立。如今，Appier 在 14 個營業據點擁有 400 多名員工，並榮獲《財富》雜誌評選為 Top 50 人工智慧公司。Appier 已從紅杉資本，軟銀集團和 LINE 等投資者募集了 1.62 億美元的資金。欲了解更多訊息，請瀏覽 www.appier.com"
+    },
+    "image": "appier.png",
+    "link": "https://bit.ly/COSCUP2020-Appier"
+  },
+  {
+    "id": "sponsor-4",
+    "level": "gold",
+    "name": {
+      "en": "Moxa",
+      "zh-TW": "Moxa"
+    },
+    "intro": {
+      "en": "Moxa is a leading provider of edge connectivity, industrial computing, and network infrastructure solutions for enabling connectivity for the Industrial Internet of Things. With over 30 years of industry experience, Moxa has connected more than 65 million devices worldwide and has a distribution and service network that reaches customers in more than 80 countries. Moxa delivers lasting business value by empowering industry with reliable networks and sincere service for industrial communications infrastructures. Information about Moxa’s solutions is available at www.moxa.com. ",
+      "zh-TW": "Moxa 是致力於工業互聯網的領導品牌，提供邊緣連網、工業運算和網路基礎設施解決方案。以「可靠連網，真誠服務」的品牌承諾，協助全球客戶打造工業通訊基礎建置，提升工業自動化與通訊應用，創造長遠的競爭優勢及商業價值。Moxa 擁有超過 30 年的產業經驗，連結全球逾 6,500 萬台工業設備，其完善的經銷和服務網絡遍及全球 80 多國。相關產品資訊請參閱 Moxa 網站 www.moxa.com。\n"
+    },
+    "image": "MOXA.png",
+    "link": "https://bit.ly/COSCUP2020-MOXA"
+  },
+  {
+    "id": "sponsor-5",
+    "level": "special-thanks",
+    "name": {
+      "en": "LPI",
+      "zh-TW": "LPI"
+    },
+    "intro": {
+      "en": "Linux Professional Institute (LPI) is the global certification standard and career support organization for open source professionals. With more than 600,000 exams delivered, it's the world’s first and largest vendor-neutral Linux and open source certification body. LPI has certified professionals in over 180 countries, delivers exams in 9 languages, and has hundreds of training partners. ",
+      "zh-TW": "Linux Professional Institute (LPI) is the global certification standard and career support organization for open source professionals. With more than 600,000 exams delivered, it's the world’s first and largest vendor-neutral Linux and open source certification body. LPI has certified professionals in over 180 countries, delivers exams in 9 languages, and has hundreds of training partners. "
+    },
+    "image": "LPI.png",
+    "link": "https://bit.ly/COSCUP2020-LPI"
+  },
+  {
+    "id": "sponsor-6",
+    "level": "bronze",
+    "name": {
+      "en": "Oursky Limited, Taiwan Branch",
+      "zh-TW": "香港商吾天有限公司台灣分公司"
+    },
+    "intro": {
+      "en": "Oursky is founded in Hong Kong by a group of passionate developers who love tech and open source culture since 2008. We are based in Hong Kong and Taipei, while some team members are working remotely from different locations. Our mission is to create open source solutions to help enterprises in digital transformation and support developers in building secure and privacy-aware software. Our Professional Services team builds creative digital products with great user experience for clients that range from rockstar startups to multinationals like Standard Chartered Bank, A.S. Watson Group, and Nvidia.\nWe are dedicated to open source with our cool flagship products: Authgear, FormExtractor and Gesprek. Authgear is an open-source auth-as-a-service solution for web and mobile applications, while Gesprek is an open-source social commerce software for SMEs. We also have a machine learning team that provides machine learning and data warehouse services, and our FormExtractor is an API service that extracts structured information from mobile device-captured documents or forms.\nWe are a technology-oriented and developer-driven team who value craftsmanship and being socially progressive. Welcome to exchange open source ideas with us!\nLearn more about us: https://oursky.com\nJoin our team: https://jobs.oursky.com",
+      "zh-TW": "Oursky 由一群熱愛科技和開源文化的開發者於 2008 年在香港創立，目前在香港及台北設有辦公室，部分團隊成員在不同國家遠端工作。我們以開發開源軟體解決方案為己任，協助企業進行數位轉型，以及幫助開發者打造安全及重視隱私的軟體。我們的技術團隊致力打造各種創新數位產品，為使用者提供優秀的用戶體驗，客戶包括嶄露頭角的新創公司，以及大型企業例如渣打銀行、屈臣氏集團及 Nvidia 等等。\n我們把對開源文化的熱情注入我們的旗艦產品 --- Authgear、FormExtractor 和 Gesprek 之中。Authgear 是為 Web 和 Mobile 軟體而設的開源 auth-as-a-service 解決方案，Gesprek 則是為中小企業而設的開源社交商務軟體。此外，我們的 Machine Learning 團隊為客戶提供機器學習和資料倉儲的服務，也研發了 FormExtractor 為用戶提供 API 服務去擷取透過移動裝置拍攝的文件或表格上的結構化資料。\n我們期許成為以開發者和科技為中心、重視技藝及社會公義的公司，歡迎支持開源的你與我們一起交流心得！\n瞭解更多：https://oursky.com\n加入我們：https://jobs.oursky.com/tw"
+    },
+    "image": "OURSKY.png",
+    "link": "https://bit.ly/COSCUP2020-oursky"
+  },
+  {
+    "id": "sponsor-7",
+    "level": "silver",
+    "name": {
+      "en": "Gamesofa",
+      "zh-TW": "慧邦科技"
+    },
+    "intro": {
+      "en": "Gamesofa was founded in 2005, and through excellence in core web technologies, has developed over 30 multiplayer games across multiple platforms including web, iOS and Android. \n\nIt has cemented its reputation as Taiwan's leading game development company. Gamesofa's motto, \"Fun in Five Minutes\" reflects the company's core philosophy. It successfully brought Taiwan its very first online web Mahjong game “Gamesofa Mahjong,” and followed that success with the world's first browser-based 3D shooter, \"Guns Rush.\" More recently, Gamesofa has gone international, breaking into markets in Indonesia, Vietnam, Singapore, Malaysia and North America with Texas Hold’em, local card game, and Social casino slots apps. Gamesofa boasts a user base of over 50 million registered users worldwide, and over 2 million daily active users. In addition to its constant drive to innovate in game development, Gamesofa has become an industry leader at employing data analysis to drive operational decisions. This allows product development, operations, and marketing teams to use data analysis tools and model projections to quickly grasp emerging situations and draw up strategies. Gamesofa is a company full of youth, passion, and proficiency.",
+      "zh-TW": "慧邦科技Gamesofa Inc.成立於2005年，透過優異的網路核心技術，自製研發並行銷營運30餘款web, iOS, Android多人遊戲，是台灣首屈一指的遊戲開發公司。\nGamesofa以提供玩家「5分鐘．想樂最輕鬆」的休閒對戰遊戲為核心理念，成功打造台灣第一大網路麻將遊戲【神來也麻將】以及全球首款中文3D網頁射擊遊戲【即刻槍戰】。近年更積極開拓國際市場，在印尼、越南、星馬、美加推出德州撲克與當地牌類麻將及老虎機遊戲，全球累積註冊用戶數超過5,000萬，每日活躍用戶超過200萬人。Gamesofa除了在遊戲開發力求創新，更擅長以資料分析驅動營運決策，讓產品開發、營運、行銷團隊皆能透過數據分析工具與預測模型，快速掌握遊戲狀況，擬定策略，是一間充滿熱情與效率的年輕企業。"
+    },
+    "image": "gamesofa.png",
+    "link": "https://www.gamesofa.com/"
+  },
+  {
+    "id": "sponsor-8",
+    "level": "special-thanks",
+    "name": {
+      "en": "HackMD",
+      "zh-TW": "HackMD"
+    },
+    "intro": {
+      "en": "HackMD lets you create realtime collaborative markdown notes on all platforms. It could be used to organize your thoughts, discuss with your teammates, and preview the result in realtime. You write in markdown and we make slides, charts, and math expressions for you!\n.\nSince launch, more than 460,000 notes have been taken in HackMD. Come and love it\n",
+      "zh-TW": "HackMD 提供您建立即時的跨平台 Markdown 筆記。能用於組織您的想法、與夥伴討論並即時預覽結果，不但如此，同時也能支援簡報、圖表、數學表達式。\n.\n從上線以來，共超過 46 萬份筆記被寫在 HackMD 上，現在就加入吧！您也能用聰明的方式寫作！"
+    },
+    "image": "Hackmd.png",
+    "link": null
+  }
+]
